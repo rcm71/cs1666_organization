@@ -1,0 +1,11 @@
+# Magagment week end report
+manager_lastname: "farnan"
+week: 1
+# Team member evalution
+team_members:
+  farnan:
+    score: 0
+    desc: "Did everything expected"
+  garrison:
+    score: -2
+    desc: "Did literally nothing"

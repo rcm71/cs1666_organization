@@ -1,0 +1,11 @@
+# Magagment week end report
+manager_lastname: "Garrison"
+week: 5
+# Team member evalution
+team_members:
+  farnan:
+    score: "0"
+    desc: "still fine"
+  garrison:
+    score: -10
+    desc: "still the worst"
