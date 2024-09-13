@@ -1,6 +1,6 @@
 # Cuscuta management week signup
 
-01. 09/11 - 09/17: ???
+01. 09/11 - 09/17: Chase Lahner
 
 02. 09/18 - 09/24: REQUIRED
 

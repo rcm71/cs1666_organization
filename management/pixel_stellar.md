@@ -1,6 +1,6 @@
 # Pixel Stellar management week signup
 
-01. 09/11 - 09/17: ???
+01. 09/11 - 09/17: Julianne Kruse
 
 02. 09/18 - 09/24: REQUIRED
 
