@@ -2,7 +2,7 @@
 
 01. 09/11 - 09/17: Apostoli Karpouzis
 
-02. 09/18 - 09/24: REQUIRED
+02. 09/18 - 09/24: Jacqueline Colmenares
 
 03. 09/25 - 10/01:
 
