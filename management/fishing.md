@@ -6,7 +6,7 @@
 
 03. 09/25 - 10/01:
 
-04. 10/02 - 10/08:
+04. 10/02 - 10/08: Jason Ye
 
 05. 10/09 - 10/14: NONE (Midterm exam and fall break)
 
