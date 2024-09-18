@@ -10,7 +10,7 @@
 
 05. 10/09 - 10/14: NONE (Midterm exam and fall break)
 
-06. 10/16 - 10/22: REQUIRED (Midterm eval)
+06. 10/16 - 10/22: Andre Ukattah
 
 07. 10/23 - 10/29: 
 
