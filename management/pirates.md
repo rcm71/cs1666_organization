@@ -2,7 +2,7 @@
 
 01. 09/11 - 09/17: Timothy Sullivan
 
-02. 09/18 - 09/24: REQUIRED
+02. 09/18 - 09/24: Anna Plazek
 
 03. 09/25 - 10/01:
 
