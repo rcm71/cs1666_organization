@@ -22,4 +22,4 @@
 
 11. 11/20 - 12/03: (2 weeks, Thanksgiving break)
 
-12. 12/04 - 12/09: REQUIRED (Final eval)
+12. 12/04 - 12/09: Adam Gimbel REQUIRED (Final eval)
