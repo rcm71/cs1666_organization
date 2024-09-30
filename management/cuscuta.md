@@ -2,15 +2,15 @@
 
 01. 09/11 - 09/17: Chase Lahner
 
-02. 09/18 - 09/24: REQUIRED
+02. 09/18 - 09/24: Rory McCann
 
-03. 09/25 - 10/01:
+03. 09/25 - 10/01: Lukas Finn
 
 04. 10/02 - 10/08:
 
 05. 10/09 - 10/14: NONE (Midterm exam and fall break)
 
-06. 10/16 - 10/22: REQUIRED (Midterm eval)
+06. 10/16 - 10/22: Nico Zeuss
 
 07. 10/23 - 10/29: 
 
@@ -22,4 +22,4 @@
 
 11. 11/20 - 12/03: (2 weeks, Thanksgiving break)
 
-12. 12/04 - 12/09: REQUIRED (Final eval)
+12. 12/04 - 12/09: Tyler Ryan
