@@ -9,10 +9,10 @@ All presentation slides must be submitted 1 week before the talk.
 * **10/30:** Networking 1 (Pirates)
 	* **Outline due:** 10/16
 	* **Slides due:** 10/23
-* **11/04:** Physics 1 (Stragglers)
+* **11/04:** Physics 1 (Fishing)
 	* **Outline due:** 10/21
 	* **Slides due:** 10/28
-* **11/06:** ProcGen 2 (Fishing)
+* **11/06:** ProcGen 2 (Stragglers)
 	* **Outline due:** 10/23
 	* **Slides due:** 10/30
 * **11/11:** Physics2 (Pixel Stellar)

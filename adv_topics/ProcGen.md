@@ -12,7 +12,7 @@ and be sure not to repeat any topics covered in previous presentations.
 - ...
 
 ## Presentation 2
-### Fishing
+### Stragglers
 
 - Topic 1 ... (XX minutes):
   - ...
