@@ -10,7 +10,7 @@ and be sure not to repeat any topics covered in previous presentations.
 - Topic 1: Networking Overview: (5 minutes)
   - Server Networking
   - P2P Networking
--Topic 2: P2P Topologies - The Basics (5 minutes)
+- Topic 2: P2P Topologies - The Basics (5 minutes)
   - Unstructured
   - N-Dimensional Grid
   - Tree
