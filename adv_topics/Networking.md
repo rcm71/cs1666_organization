@@ -10,7 +10,7 @@ and be sure not to repeat any topics covered in previous presentations.
 - Topic 1: Networking Overview: (5 minutes)
   - Server Networking
   - P2P Networking
--Topic 2: P2P Topologies - The Basics (20 minutes)
+-Topic 2: P2P Topologies - The Basics (5 minutes)
   - Unstructured
   - N-Dimensional Grid
   - Tree
@@ -24,7 +24,7 @@ and be sure not to repeat any topics covered in previous presentations.
   - Why use Client-Server?
   - Spoke to Spoke Communication
   - Connectivity
-- Topic 4: Challenges of P2P (5 minutes)
+- Topic 4: Challenges of P2P (10 minutes)
   - Network Management
     - Joining
     - Leaving
@@ -36,11 +36,11 @@ and be sure not to repeat any topics covered in previous presentations.
     - Removing Data
     - Detecing Bad Data
   - Consensus
-- Topic 5: Solutions
+- Topic 5: Solutions (15 minutes)
   - Solution by Topology
   - Solution by Protocol
   - Solution by Algorithm
-- Topic 6: Key Points and Conclusion
+- Topic 6: Key Points and Conclusion (5 minutes)
 
 ## Presentation 2
 ### Cuscuta
