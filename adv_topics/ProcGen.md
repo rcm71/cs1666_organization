@@ -52,12 +52,12 @@ and be sure not to repeat any topics covered in previous presentations.
       - After a walk is completed, it is stepped through again and loops are erased from the path
 - Topic 3: Implementation (25 mins)
   - steps:
-    - 1) Choose a random starting cell and add it to the uniform spanning tree
-    - 2) Choose another cell that has not been added yet and do a random walk until reaching the UST
-    - 3) Keep track of direction as each cell is added → will allow for removing loops 
+    1) Choose a random starting cell and add it to the uniform spanning tree
+    2) Choose another cell that has not been added yet and do a random walk until reaching the UST
+    3) Keep track of direction as each cell is added → will allow for removing loops 
         - Once a walk has been found, go through again following the directions and disregard any cells that are not needed
         - Add the remaining touched cells in the walk to the UST
-    - 4) Repeat b and c
+    4) Repeat 2 and 3
   - Include examples/visuals of different ways the algorithm can play out with different-sized mazes
 - Topic 4: Conclusion (5 mins)
   - Pros and cons of Wilson’s 
