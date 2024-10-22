@@ -1,7 +1,7 @@
 # Procedural Generation Advanced Topic Presentations
 
 Before your presentation, use this file to get your talk outline approved. Be
-sure to provide an estimated time to spend on teach topic (totalling 45 minutes)
+sure to provide an estimated time to spend on teach topic (totaling 45 minutes)
 and be sure not to repeat any topics covered in previous presentations.
 
 ## Presentation 1
@@ -41,9 +41,27 @@ and be sure not to repeat any topics covered in previous presentations.
 ## Presentation 2
 ### Stragglers
 
-- Topic 1 ... (XX minutes):
-  - ...
-- ...
+- Topic 1: Introduction to maze generation using proc gen (5 mins)
+  - Show different examples of procedural generation algorithms and what their mazes look like
+  - Brief mention of minimum spanning trees (Prim’s and Kruscal’s) and depth-search algorithms
+  - Problems with these algorithms when creating a maze → biased towards short dead ends/ long corridors
+- Topic 2: Overview of Wilson’s Algorithm (10 mins)
+  - Uniform spanning trees - what they are/why we would want to use this in our game
+  - How Wilson’s Alg works
+      - Series of random walks that add cells to the UST
+      - After a walk is completed, it is stepped through again and loops are erased from the path
+- Topic 3: Implementation (25 mins)
+  - steps:
+    - 1) Choose a random starting cell and add it to the uniform spanning tree
+    - 2) Choose another cell that has not been added yet and do a random walk until reaching the UST
+    - 3) Keep track of direction as each cell is added → will allow for removing loops 
+        - Once a walk has been found, go through again following the directions and disregard any cells that are not needed
+        - Add the remaining touched cells in the walk to the UST
+    - 4) Repeat 2 and 3
+  - Include examples/visuals of different ways the algorithm can play out with different-sized mazes
+- Topic 4: Conclusion (5 mins)
+  - Pros and cons of Wilson’s 
+
 
 ## Presentation 3
 ### Pirates
