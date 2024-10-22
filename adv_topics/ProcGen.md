@@ -57,7 +57,7 @@ and be sure not to repeat any topics covered in previous presentations.
     3) Keep track of direction as each cell is added → will allow for removing loops 
         - Once a walk has been found, go through again following the directions and disregard any cells that are not needed
         - Add the remaining touched cells in the walk to the UST
-    4) Repeat 2 and 3
+    4) Repeat b and c until all cells have been added
   - Include examples/visuals of different ways the algorithm can play out with different-sized mazes
 - Topic 4: Conclusion (5 mins)
   - Pros and cons of Wilson’s 
