@@ -39,7 +39,7 @@ Forces effects motion
 - (7 min) Conway’s Game of Life and impact on CS
 - (5 min) Expanding to simulate solids
   - Demo of falling sand
--	(5 min) Changing this to show simulation of water.
+- (5 min) Changing this to show simulation of water.
 -	(10 min) Adding pressure, splashing, viscosities for water simulation 
 -	(10 min) Expansion to gas  
     - Discussing lattice gas automation as an expansion of basic cellular automata   
