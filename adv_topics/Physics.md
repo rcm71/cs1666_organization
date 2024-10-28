@@ -33,6 +33,14 @@ Forces effects motion
 ## Presentation 2
 ### Pixel Stellar
 
-- Topic 1 ... (XX minutes):
-  - ...
-- ...
+- (5 min) Background / history of cellular automata
+- (3 min) Explain definition of celluar automata
+  - Demo of the most basic form of a system which falls under it
+- (7 min) Conway’s Game of Life and impact on CS
+- (5 min) Expanding to simulate solids
+  - Demo of falling sand
+-	(5 min) Changing this to show simulation of water.
+-	(10 min) Adding pressure, splashing, viscosities for water simulation 
+-	(10 min) Expansion to gas  
+    - Discussing lattice gas automation as an expansion of basic cellular automata   
+
