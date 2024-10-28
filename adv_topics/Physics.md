@@ -34,8 +34,8 @@ Forces effects motion
 ### Pixel Stellar
 
 - (5 min) Background / history of cellular automata
-- (3 min) Explain definition of celluar automata
-  - Demo of the most basic form of a system which falls under it
+- (3 min) Explain definition of cellular automata
+  - Demo of the most basic form of the system
 - (7 min) Conway’s Game of Life and impact on CS
 - (5 min) Expanding to simulate solids
   - Demo of falling sand
